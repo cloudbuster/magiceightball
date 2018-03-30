@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="background_bitmap_for_answers">Background bitmap for answers.</string>
+    <string name="background_circle">Background bitmap for answers.</string>
+    <string name="click_to_get_advice">Click To\nGet Advice</string>
 </resources>
